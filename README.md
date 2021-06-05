@@ -1,8 +1,10 @@
 # tech-discussion
 This is a demo repo for sharing idea around communication
 
+## Markdown
+Is ia great tool for documentation:
 
-## This is a second hearing
+### This is a second hearing
 
 * one
 * two
