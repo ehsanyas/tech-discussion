@@ -20,3 +20,6 @@ This is my first gist code:
 
 ### Colab +Jupyter Example:
 this is the [notebook](https://colab.research.google.com/drive/1atbfbawyl4c-WRkpkhLRdNF4A2YFd2Qn#scrollTo=1jLDlj-NIlD6)
+
+### Images
+![image](https://user-images.githubusercontent.com/54496415/120884632-6ef99d80-c5e4-11eb-89a3-e4391ff636b7.png)
